@@ -24,7 +24,7 @@ Repo containing commons fox sports project configs
     ```
     module.exports = {
         "extends": [
-            "./node_modules/fs-default-project-config/resources/.eslintrc-files.js"
+            "./node_modules/fs-default-project-config/resources/.eslintrc-files.js",
             "./node_modules/fs-default-project-config/resources/.eslintrc-standards.js"
         ]
     };
